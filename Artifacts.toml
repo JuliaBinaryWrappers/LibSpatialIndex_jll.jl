@@ -1,288 +1,296 @@
 [[LibSpatialIndex]]
 arch = "aarch64"
-git-tree-sha1 = "227dc98bbe34da36bda0e35bfedde5dd187f539e"
+git-tree-sha1 = "be581959ecb50371fd7e5cdeee77a9de597328b9"
 os = "macos"
 
     [[LibSpatialIndex.download]]
-    sha256 = "f2751028e46c859e1e4a3322677602d51fa43c6a8f07f13dd4a05e56bbbbd336"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.aarch64-apple-darwin.tar.gz"
+    sha256 = "b8e59c2af697c1fc28a203b7b3c7b8166a419703ab237ed0ce767d778575714f"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.aarch64-apple-darwin.tar.gz"
 [[LibSpatialIndex]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b7d62a4a6d6b0a85d693bb1017a39f2fe91894ca"
+git-tree-sha1 = "577a88bd11b196d8016b76116aa4464f45f059f3"
 libc = "glibc"
 os = "linux"
 
     [[LibSpatialIndex.download]]
-    sha256 = "dd0b412e9584c5d74611bc4c1610369d878d45b9d37e4a7026865a592d2e7cde"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "8b92fc3ec8873c82c7bb649fb8901d163439101f00fca200fe5a7a0e65e186b8"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[LibSpatialIndex]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "888eb52c2a66ca3265e9dadd873f7e08148d7d22"
+git-tree-sha1 = "3f62cccb50ca52e05e75dac0619a9ae3457e51e1"
 libc = "glibc"
 os = "linux"
 
     [[LibSpatialIndex.download]]
-    sha256 = "0ba86236aadfdf4067433a84d65e3e01f9159d46a70f5cbccb938841eb9d2712"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "678d0631fed69919d077767920880bdf493c75846405a275b9e39b1098d98437"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[LibSpatialIndex]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "22341650f901f25a2c12a81c2d2d08d7b21b5d9d"
+git-tree-sha1 = "f1adf39af98b96df021c1ed8bdcb520c30175406"
 libc = "musl"
 os = "linux"
 
     [[LibSpatialIndex.download]]
-    sha256 = "f31cac1b55181548c9cc137c21561627db55609583b7ff11fb8288ca53108c08"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "dedf78f8c81335112408a17f0e9e85eb3ce792959e78c5e0d4758d10f7590cac"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.aarch64-linux-musl-cxx03.tar.gz"
 [[LibSpatialIndex]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fdaa141bba8169db2ba37f751ad5116d41ed3ecf"
+git-tree-sha1 = "da39b6ae9436038660237fb779050fac0715c8a0"
 libc = "musl"
 os = "linux"
 
     [[LibSpatialIndex.download]]
-    sha256 = "1ce55e85d6230a50b13dad61aa7bddb1cfa9dd0d13f92bf206336d9fa693e5a7"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "ae7459452b36fbce318f18f8aae7a8b200778d019de17df502c7f0a6920cd182"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.aarch64-linux-musl-cxx11.tar.gz"
 [[LibSpatialIndex]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "cd428ce7c196b91de4c37bbe649e62a31521e647"
-libc = "glibc"
-os = "linux"
-
-    [[LibSpatialIndex.download]]
-    sha256 = "7306a6682a2b51e6ea86235466e8b752310077f82ea8a968960e86bde68f64a7"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.armv6l-linux-gnueabihf-cxx03.tar.gz"
-[[LibSpatialIndex]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "2d728aedb4ae27527c667cf67a3af0e562fb0599"
-libc = "glibc"
-os = "linux"
-
-    [[LibSpatialIndex.download]]
-    sha256 = "07484039c7133b5be5fbe7d592e66d5e5bda8c0fa85f933d729ade20057f780e"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.armv6l-linux-gnueabihf-cxx11.tar.gz"
-[[LibSpatialIndex]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "6897da84ec9b21c52e1fc9f1599d205e427c3a87"
-libc = "musl"
-os = "linux"
-
-    [[LibSpatialIndex.download]]
-    sha256 = "669b95406a656bd77552c640bbd5fb36e814467a081e263b7b1fe9fc0d0b6586"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.armv6l-linux-musleabihf-cxx03.tar.gz"
-[[LibSpatialIndex]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "273356eb35fe402cd631203e751b61dfa6d272a6"
-libc = "musl"
-os = "linux"
-
-    [[LibSpatialIndex.download]]
-    sha256 = "9515c6c984d2cd2ea2a0da9e041b580c294076d492dcd098950aff2d77e0c9ad"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.armv6l-linux-musleabihf-cxx11.tar.gz"
-[[LibSpatialIndex]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "629958fd3e47ff7834c0a69b5b1818b82fff8a1d"
-libc = "glibc"
-os = "linux"
-
-    [[LibSpatialIndex.download]]
-    sha256 = "50a308d4e40cadb9b371a25dd8292fb45e711aa93982d5bd949274ff1f410729"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.armv7l-linux-gnueabihf-cxx03.tar.gz"
-[[LibSpatialIndex]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d8095981c32d365f904f90aa9e28a08ed428e823"
-libc = "glibc"
-os = "linux"
-
-    [[LibSpatialIndex.download]]
-    sha256 = "38e653659b37078da36c03165ee2f72d7d20f705419a747c3b2e4a529e0a2367"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.armv7l-linux-gnueabihf-cxx11.tar.gz"
-[[LibSpatialIndex]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "b0c5930b4cbed066452b7d3fc95459253320b837"
-libc = "musl"
-os = "linux"
-
-    [[LibSpatialIndex.download]]
-    sha256 = "32cfa18fc1cd4b44567a1b87f1acc51a3b54455450c3cb7d7ab6c96b95a725e2"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.armv7l-linux-musleabihf-cxx03.tar.gz"
-[[LibSpatialIndex]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "475c5dc8d3d2c429b646ac524b70cf14a673a039"
-libc = "musl"
-os = "linux"
-
-    [[LibSpatialIndex.download]]
-    sha256 = "044b09801c3689c46d61be566d0c4a50709ab4a04f5d450b0334a630e31d464d"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.armv7l-linux-musleabihf-cxx11.tar.gz"
-[[LibSpatialIndex]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "1115c793d9d40162d7a500c899055e9c6b36787a"
-libc = "glibc"
-os = "linux"
-
-    [[LibSpatialIndex.download]]
-    sha256 = "46e92eac4f757b96572502b0fa595f1d03ff39cff31507fb82070df32dfbd379"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.i686-linux-gnu-cxx03.tar.gz"
-[[LibSpatialIndex]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "3e7418c0c9f39af12a910a9371d4fd3fc605683c"
-libc = "glibc"
-os = "linux"
-
-    [[LibSpatialIndex.download]]
-    sha256 = "a2360f3687e555b26eb0edfb150b32aa3d87f19b7b5fc0d979ecd6a900679986"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.i686-linux-gnu-cxx11.tar.gz"
-[[LibSpatialIndex]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "910737200d446101c1ace97d2219811d11be48cf"
-libc = "musl"
-os = "linux"
-
-    [[LibSpatialIndex.download]]
-    sha256 = "227b9957032f0bd0b6a49ac44594c1811eed50d67fc0c2c773391161c0a8580e"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.i686-linux-musl-cxx03.tar.gz"
-[[LibSpatialIndex]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "e51592ad167b4961f2c84c0dc8dfd0067a6cb4ff"
-libc = "musl"
-os = "linux"
-
-    [[LibSpatialIndex.download]]
-    sha256 = "afc3c9417bf35940a1485f6411efa12408434912b86b52f811829f502e2ba3df"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.i686-linux-musl-cxx11.tar.gz"
-[[LibSpatialIndex]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "68d754eb1c39b5a1d68578e516e59226c268c901"
-os = "windows"
-
-    [[LibSpatialIndex.download]]
-    sha256 = "6fe0adf6e4b134471825ac925634656fec23545b72057f723b189bf544b05b32"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.i686-w64-mingw32-cxx03.tar.gz"
-[[LibSpatialIndex]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "1cd99b3efe653205dc8783dd4d4680c7d735a76e"
-os = "windows"
-
-    [[LibSpatialIndex.download]]
-    sha256 = "8fa11f45936e2c447ef2638e03aa0af6b39b7228a7719df2b929940d68826274"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.i686-w64-mingw32-cxx11.tar.gz"
-[[LibSpatialIndex]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "8f97f97a0a8aade53b2b0a32a12d5815bd9ba2fc"
-libc = "glibc"
-os = "linux"
-
-    [[LibSpatialIndex.download]]
-    sha256 = "3d0208bdf249e7ad43d837fd131591e7c5b64f4bcfc838ad2858ee9ff7600b08"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.powerpc64le-linux-gnu-cxx03.tar.gz"
-[[LibSpatialIndex]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "8604bc391a3e433459c39ce02643b4cd613d6d10"
-libc = "glibc"
-os = "linux"
-
-    [[LibSpatialIndex.download]]
-    sha256 = "e3be42711d0343b69edab295d583e19c4664536b9bb6c45de800cec25e9b4349"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.powerpc64le-linux-gnu-cxx11.tar.gz"
-[[LibSpatialIndex]]
-arch = "x86_64"
-git-tree-sha1 = "5f882f7cfc3f94446a9be278d8aa8ef72a9746a9"
-os = "macos"
-
-    [[LibSpatialIndex.download]]
-    sha256 = "2d24d37906423f2f11b0190ead99df995f98bc4ecccfcd755881ae3f866ee8bb"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.x86_64-apple-darwin.tar.gz"
-[[LibSpatialIndex]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "adf9923461acb2977727af929560177ab6ef5f46"
-libc = "glibc"
-os = "linux"
-
-    [[LibSpatialIndex.download]]
-    sha256 = "cde04151602dc2e6e24ab2dd51f6344aa4dc25b390d2ad9f32f362c2a6cf5a3f"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.x86_64-linux-gnu-cxx03.tar.gz"
-[[LibSpatialIndex]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "2a1541a10d72f48c1e5e16881849ea8aa4f15ac1"
-libc = "glibc"
-os = "linux"
-
-    [[LibSpatialIndex.download]]
-    sha256 = "44567a5fcbe8454da507a185b17e0028ff53d5517b3a131544fc615ffc10c9fc"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.x86_64-linux-gnu-cxx11.tar.gz"
-[[LibSpatialIndex]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "99c59a887353da24a9eca85797754e57e1321e3e"
-libc = "musl"
-os = "linux"
-
-    [[LibSpatialIndex.download]]
-    sha256 = "32bd3c745faf5e2a702b93742f89ba5bb9c7f6a1be2a24898fc9492d133ef613"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.x86_64-linux-musl-cxx03.tar.gz"
-[[LibSpatialIndex]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "c5e3c930511485c9b5db1de4ae2e5f5973556bc8"
-libc = "musl"
-os = "linux"
-
-    [[LibSpatialIndex.download]]
-    sha256 = "c93ce503039c60ee22254868d08864da207e0c9c4290be933cd03988afbe2d9e"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.x86_64-linux-musl-cxx11.tar.gz"
-[[LibSpatialIndex]]
-arch = "x86_64"
-git-tree-sha1 = "8a1015083d9fd711b213af55a4781b0dcd0667b1"
+arch = "aarch64"
+git-tree-sha1 = "cd9bc3a3e2ae7864a11449cc37e73565857cfb75"
 os = "freebsd"
 
     [[LibSpatialIndex.download]]
-    sha256 = "aa4e8b48dedecd3afdbe63c437ae1853ab1ac8f81a0e7f1188323e648dcbecb4"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "4a063d65e13fb9cad45c5f981d0d8c89a175602af8d3ab512973833b3f7ccb47"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.aarch64-unknown-freebsd.tar.gz"
+[[LibSpatialIndex]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fbfcb7df29e4b73e4f19906926c8838935609c13"
+libc = "glibc"
+os = "linux"
+
+    [[LibSpatialIndex.download]]
+    sha256 = "0e506545f39c35120d523ac677ddda287e09bfd9b713a960b98db18dd41e681f"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[LibSpatialIndex]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0dc3a245f99aef2f1dbe12f5366f1e5e7b76981f"
+libc = "glibc"
+os = "linux"
+
+    [[LibSpatialIndex.download]]
+    sha256 = "ff31283c5be6b9afffeeff0c63de35c199e2ace4fd90cd93f0dec6ebd71aca94"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[LibSpatialIndex]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f9c48c42c17aab39a3e04401986df23aa8e91696"
+libc = "musl"
+os = "linux"
+
+    [[LibSpatialIndex.download]]
+    sha256 = "003c2ec133975ec36b8ed6280929b3491d21e9163984b1da895058806926a09f"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[LibSpatialIndex]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "674725529427444f0ed2730702faf39abe01d317"
+libc = "musl"
+os = "linux"
+
+    [[LibSpatialIndex.download]]
+    sha256 = "8ea380495d2f55de66e6add248e06401c20470033250e184ea58eced7d712352"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[LibSpatialIndex]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cae59cd9a2462ce1a45ac46a07f6d602e511f0c1"
+libc = "glibc"
+os = "linux"
+
+    [[LibSpatialIndex.download]]
+    sha256 = "b35fa5aca8dcd5efe3994c8cf1f73ace339e2fd158fdd06f7e6658c0aee2966c"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[LibSpatialIndex]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b418013012e60851f256ebb3f05f4507111d1c18"
+libc = "glibc"
+os = "linux"
+
+    [[LibSpatialIndex.download]]
+    sha256 = "9e4e66c86c6accd0dfacfbb046d49a00ff621af487e5343e27286e137623bd2c"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[LibSpatialIndex]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a59f687357abb017cf27d79d992cd78f050aff7f"
+libc = "musl"
+os = "linux"
+
+    [[LibSpatialIndex.download]]
+    sha256 = "1df7eb4a9d0e317bf412ebe8e14a929aa1fd5684d68780a21306d6ad101369c2"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[LibSpatialIndex]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2b23e2b64c6613f6c754f865daf0c36130a98339"
+libc = "musl"
+os = "linux"
+
+    [[LibSpatialIndex.download]]
+    sha256 = "28d74c94739896edfab727fb5f8649291d565d33a6a274d29296e2d14ee1f756"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[LibSpatialIndex]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9e6bbe1f873739b564f9c16e21830a79b0fdcbee"
+libc = "glibc"
+os = "linux"
+
+    [[LibSpatialIndex.download]]
+    sha256 = "c5f1228c874b45657c4c5bcce8b7755cb0a3591ea6afa9fc83611f4160d32c03"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.i686-linux-gnu-cxx03.tar.gz"
+[[LibSpatialIndex]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0843f9ad5fd364bcef9545547c98b902dcb6b24f"
+libc = "glibc"
+os = "linux"
+
+    [[LibSpatialIndex.download]]
+    sha256 = "7545b65f0396b4f796d27b0088c7587f0c5d20e20f475ffa674da7c0da24d73d"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.i686-linux-gnu-cxx11.tar.gz"
+[[LibSpatialIndex]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "42e2da77e4e51e63b752c650878332bf890f102c"
+libc = "musl"
+os = "linux"
+
+    [[LibSpatialIndex.download]]
+    sha256 = "8764644037a48dc106e3372612a8f466c6bc5a56cea6dae22560e55216d70518"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.i686-linux-musl-cxx03.tar.gz"
+[[LibSpatialIndex]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8d5c925cfb7d75aac3f091156eb9b89b3deb9031"
+libc = "musl"
+os = "linux"
+
+    [[LibSpatialIndex.download]]
+    sha256 = "8e2d03dde8e9ad3cc491b7df20516ea0920892944f9ff9134c0c471370f8c5af"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.i686-linux-musl-cxx11.tar.gz"
+[[LibSpatialIndex]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "73d3cb46ab23dc523928bb186702e24b512e7da6"
+os = "windows"
+
+    [[LibSpatialIndex.download]]
+    sha256 = "8787450a740a21501683fbb7d81975e054eef662e95b3a45183050369e8f5e32"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.i686-w64-mingw32-cxx03.tar.gz"
+[[LibSpatialIndex]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "36a6432dc807be5497348e0ffcd31dae1dfc43c1"
+os = "windows"
+
+    [[LibSpatialIndex.download]]
+    sha256 = "9a2b7ffa41ec61e22ffa8bc1bcaec5b1677a72cf71b51f8f28f5af19403bb5aa"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.i686-w64-mingw32-cxx11.tar.gz"
+[[LibSpatialIndex]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "809973374e485e2cc7b7d3a5e17a784fe2dddfe0"
+libc = "glibc"
+os = "linux"
+
+    [[LibSpatialIndex.download]]
+    sha256 = "18dcc978db177dc0d1c7afc0d161f2b3eb46312b04e4bd34e2985ce616582546"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[LibSpatialIndex]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "00d15bfa49512a195b98e0ff8ced3865bae41fce"
+libc = "glibc"
+os = "linux"
+
+    [[LibSpatialIndex.download]]
+    sha256 = "b5ab2adcf48b295b703c364e573abd9bf4dcc312accfcd19919e7005f419f00c"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[LibSpatialIndex]]
+arch = "x86_64"
+git-tree-sha1 = "b4e80b2aca2a35d87818f9d7855877a7cfa2c15a"
+os = "macos"
+
+    [[LibSpatialIndex.download]]
+    sha256 = "6f3217823a2d92ae0f652faf0b33a93427bae3d8ee8fc08a69b2b7b6da42547d"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.x86_64-apple-darwin.tar.gz"
 [[LibSpatialIndex]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c9e8ee9481069ab91718792cb2c01195be1fc853"
-os = "windows"
+git-tree-sha1 = "60067b2a6bd913cdb466c7012a4c3c3260304263"
+libc = "glibc"
+os = "linux"
 
     [[LibSpatialIndex.download]]
-    sha256 = "a9c2f048c1046931bdd158ef2b11078dce8ef428f0902286ce02c0b46781162b"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "f45b850b5e30328a76701d9f060017afd60bb63229feaaadcd118d496244d8a5"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[LibSpatialIndex]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8cc4aa76845e7db87cd181007a67912632661d63"
+git-tree-sha1 = "a9f9b8f17719aa8233567f2a235bb06fb6375efc"
+libc = "glibc"
+os = "linux"
+
+    [[LibSpatialIndex.download]]
+    sha256 = "924aaa3c12b7e85a78ecc0bb03b4b7d91d6dda10b1f79e27590e4998fe33e08d"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[LibSpatialIndex]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c408283a40eb11a9293c0fef54df8c1c44fc8553"
+libc = "musl"
+os = "linux"
+
+    [[LibSpatialIndex.download]]
+    sha256 = "3e8295ecea7c3e849998113d8b8f288a8a4e5bf0e35c7d67689cc0d83ae943db"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.x86_64-linux-musl-cxx03.tar.gz"
+[[LibSpatialIndex]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0244b6fe6a94532c63760accbb3250999a37dd94"
+libc = "musl"
+os = "linux"
+
+    [[LibSpatialIndex.download]]
+    sha256 = "6e2a5750743549f03639d880268b4921d4c010b7261487a815b0a740ac19d05e"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.x86_64-linux-musl-cxx11.tar.gz"
+[[LibSpatialIndex]]
+arch = "x86_64"
+git-tree-sha1 = "16c193fa5e5389c1ca9c0810e4d9050b88774413"
+os = "freebsd"
+
+    [[LibSpatialIndex.download]]
+    sha256 = "c62c5edcce8c94bd5c0d8a39b1bb2151c57b01adf3f1cd7fcec238c0df3e476e"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.x86_64-unknown-freebsd.tar.gz"
+[[LibSpatialIndex]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9e628f3d8197d3976beefb141c5035b9bcc45560"
 os = "windows"
 
     [[LibSpatialIndex.download]]
-    sha256 = "eba952bb862c4cbb0a263b9df9514d47abfbf401f0ed3d6af1e4d3661fcf9164"
-    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v1.9.3+0/LibSpatialIndex.v1.9.3.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "07f8fd05c26bb022a3ed4ed997daac5d389b36132e1846fd695f31ee0673e931"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[LibSpatialIndex]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "38aaa452a4649b14b51862dab3e5430fac0d55b5"
+os = "windows"
+
+    [[LibSpatialIndex.download]]
+    sha256 = "2210704812c0284751e596e8dddfd3a1c5d4a263d5a76e9afa95b39a6880825c"
+    url = "https://github.com/JuliaBinaryWrappers/LibSpatialIndex_jll.jl/releases/download/LibSpatialIndex-v2.0.0+0/LibSpatialIndex.v2.0.0.x86_64-w64-mingw32-cxx11.tar.gz"

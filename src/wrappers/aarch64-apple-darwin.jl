@@ -2,19 +2,19 @@
 export libspatialindex, libspatialindex_c
 
 JLLWrappers.@generate_wrapper_header("LibSpatialIndex")
-JLLWrappers.@declare_library_product(libspatialindex, "@rpath/libspatialindex.6.dylib")
-JLLWrappers.@declare_library_product(libspatialindex_c, "@rpath/libspatialindex_c.6.dylib")
+JLLWrappers.@declare_library_product(libspatialindex, "@rpath/libspatialindex.7.dylib")
+JLLWrappers.@declare_library_product(libspatialindex_c, "@rpath/libspatialindex_c.7.dylib")
 function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libspatialindex,
-        "lib/libspatialindex.6.1.1.dylib",
+        "lib/libspatialindex.7.0.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libspatialindex_c,
-        "lib/libspatialindex_c.6.1.1.dylib",
+        "lib/libspatialindex_c.7.0.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 

@@ -2,8 +2,8 @@
 export libspatialindex, libspatialindex_c
 
 JLLWrappers.@generate_wrapper_header("LibSpatialIndex")
-JLLWrappers.@declare_library_product(libspatialindex, "libspatialindex.so.6")
-JLLWrappers.@declare_library_product(libspatialindex_c, "libspatialindex_c.so.6")
+JLLWrappers.@declare_library_product(libspatialindex, "libspatialindex.so.7")
+JLLWrappers.@declare_library_product(libspatialindex_c, "libspatialindex_c.so.7")
 function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
